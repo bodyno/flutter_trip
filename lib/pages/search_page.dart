@@ -10,7 +10,7 @@ class _SearchPageState extends State<SearchPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text("搜索"),
+        child: Text('搜索'),
       )
     );
   }
